@@ -40,10 +40,10 @@
     text-align: justify;
     color: #333030;
     border-radius: 0px;
-    padding-top: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
     margin-left: 10px;
     margin-top: 10px;
     margin-right: 10px;
@@ -53,4 +53,5 @@
 .container {
     background-color: #DFDA9E;
     margin-bottom: 0px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
