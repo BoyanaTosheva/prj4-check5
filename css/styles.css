@@ -45,11 +45,6 @@
     background-image: url(../images/sai3.jpg);
 }
 
-
-
-
-}
-
 .button {
     background-color: #ED593F;
     border-style: inset;
@@ -59,6 +54,7 @@
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
-    margin-left: 542px;
+    margin-left: 372px;
     margin-right: 546px;
+}
 }
